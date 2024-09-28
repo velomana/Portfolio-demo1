@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding-top:80px;
+    padding-left:96px;
+    padding-right:96px;
+    padding-bottom:400px;
+}
+
+
+.bouton{
+    background-color: blanchedalmond;
+    font-family: Roboto;
+    color:black;
+
+    padding: 10px 6px 10px 6px;
+    margin:10px 6px 10px 6px;
+    width:100px;
+    height: 40px;
+
+    border-radius: 10px;
+}
+
+.E-mail_container{
+    color:white;
+}
+
+.contact_info{
+    color:white;
+}
+
+.social-box{
+    display:flex;
+    justify-content: space-evenly;
+    width:400px;
+}
+.Fb_login{
+    height:30px;
+    width: 100px;
+    font-size: medium;
+    font-weight: 600;
+    font-family: Roboto;
+    border-radius: 16px;
+    border-style: hidden;
+    color:rgb(106, 100, 100);
+}
+
+.IG_login{
+    height:30px;
+    width: 100px;
+    font-size: medium;
+    font-weight: 600;
+    font-family: Roboto;
+    border-radius: 16px;
+    
+    border-style: hidden;
+    color:rgb(106, 100, 100);
+}
+
+
+.X_login{
+    height:30px;
+    width: 100px;
+    font-size: medium;
+    font-weight: 600;
+    font-family: Roboto;
+    border-radius: 16px;
+    
+    border-style: hidden;
+    color:rgb(106, 100, 100);
+}

@@ -1,0 +1,87 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(36, 139, 249);
+    color: white;
+    margin:0;
+    padding-top:80px;
+    padding-left:96px;
+    padding-right:96px;
+    padding-bottom:300px;
+
+    border: 50px solid white;
+}
+a {
+    color:black;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.menu_Container{
+    display:flex;
+    justify-content: center;
+    margin-left: 0;
+    width:400px;
+    height:75px;
+}
+a:hover{
+    color:white;
+}
+
+.bouton{
+    background-color: blanchedalmond;
+    font-family: Roboto;
+    color:black;
+
+    padding: 10px 6px 10px 6px;
+    margin:10px 6px 10px 6px;
+    width:100px;
+    height: 40px;
+
+    border-radius: 10px;
+}
+.bouton:hover{
+    cursor: pointer;
+    background-color: red;
+}
+
+.bouton:active{
+    background-color: red;
+}
+
+
+.Image_container{
+    width:350px;
+}
+
+.education{
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+.extra-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:400px;
+}
+
+.location{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius: 10px;
+    border-style:double;
+}
+
+.free-time{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius: 10px;
+    border-style:double;
+}

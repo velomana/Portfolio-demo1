@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    padding-top:80px;
+    padding-left:96px;
+    padding-right:96px;
+    padding-bottom:400px;
+}
+
+
+.bouton{
+    background-color: blanchedalmond;
+    font-family: Roboto;
+    color:black;
+
+    padding: 10px 6px 10px 6px;
+    margin:10px 6px 10px 6px;
+    width:100px;
+    height: 40px;
+
+    border-radius: 10px;
+}
+
+.Main_container{
+    flex-direction: row;
+}
+
+.work_frame{
+    display:flex;
+    flex-direction: column;
+}
+.timeline{
+    margin-left:30px;
+}
+
+.Employement_box{
+    color:white;
+    font-family: Lora;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.BCIT_path{
+    color:white;
+}
+
+.extenal_image{
+    color:white;
+}
+
+.Edu_loc{
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+
